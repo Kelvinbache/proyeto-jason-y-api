@@ -34,4 +34,5 @@ condiciones de programa
 3)usando fomato json
 4)usar solo dos modulos uno para la logica y otro para enventos de boton
 5)usar dom 
+para empujar git push -u origin main
 */
